@@ -1,0 +1,4 @@
+pandas
+yfinance
+exchange_calendars
+openpyxl
